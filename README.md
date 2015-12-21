@@ -11,7 +11,7 @@
 ## Demo
 The library currently contains 7 eye LED boxes.
 
-![cryingEyeBox demo](./readMeImage/pepperEyeLibraryDemo.png)
+![cryingEyeBox demo](./readMeImage/pepperEyeLibraryTypes.png)
 
 
 

@@ -11,7 +11,7 @@
 ## デモ
 現在このボックスライブラリには7つのボックスが含まれています。
 
-![cryingEyeBox demo](./readMeImage/pepperEyeLibraryDemo.png)
+![cryingEyeBox demo](./readMeImage/pepperEyeLibraryTypes.png)
 
 
 
