@@ -1,7 +1,7 @@
 #Eye LED Box Library for Pepper
 
 
-![Pepper Icon](./readMeImage/IMG_0010.png)
+![Pepper Icon](./readMeImage/pepperEyeLibraryTop.png)
 
 
 ## 概要
