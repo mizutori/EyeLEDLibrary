@@ -1,7 +1,7 @@
 # Eye LED Box Library for Pepper
 
 
-![Pepper Icon](./readMeImage/IMG_0010.PNG)
+![Pepper Icon](./readMeImage/IMG_0010.png)
 
 
 ## Overview
@@ -11,7 +11,7 @@
 ## Demo
 The library currently contains 7 eye LED boxes.
 
-![cryingEyeBox demo](./readMeImage/pepperEyeLibraryDemo.PNG)
+![cryingEyeBox demo](./readMeImage/pepperEyeLibraryDemo.png)
 
 
 

@@ -1,7 +1,7 @@
 #Eye LED Box Library for Pepper
 
 
-![Pepper Icon](./readMeImage/IMG_0010.PNG)
+![Pepper Icon](./readMeImage/IMG_0010.png)
 
 
 ## 概要
@@ -11,7 +11,7 @@
 ## デモ
 現在このボックスライブラリには7つのボックスが含まれています。
 
-![cryingEyeBox demo](./readMeImage/pepperEyeLibraryDemo.PNG)
+![cryingEyeBox demo](./readMeImage/pepperEyeLibraryDemo.png)
 
 
 
