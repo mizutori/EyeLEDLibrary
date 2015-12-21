@@ -1,7 +1,7 @@
 # Eye LED Box Library for Pepper
 
 
-![Pepper Icon](file:///Users/Mika/Documents/EyeLEDLibrary/pics/IMG_0010.PNG)
+![Pepper Icon](./readmeImage/IMG_0010.PNG)
 
 
 ## Overview
@@ -11,7 +11,7 @@
 ## Demo
 The library currently contains 7 eye LED boxes.
 
-![cryingEyeBox demo](file:///Users/Mika/Documents/EyeLEDLibrary/pics/pepperEyeLibraryDemo.PNG)
+![cryingEyeBox demo](./readmeImage/pepperEyeLibraryDemo.PNG)
 
 
 
@@ -19,7 +19,7 @@ The library currently contains 7 eye LED boxes.
 1. Install Eye LED Library.
 2. Open Chorepraphe, add Eye Box Libary to box libraries panel.
 3. Drag and drop the box you want to use to flow diagram pannel.
-![explanation image](file:///Users/Mika/Documents/EyeLEDLibrary/pics/EyeLibraryExplanation.001.png)
+![explanation image](./readmeImage/EyeLibraryExplanation.png)
 
 	
 	
