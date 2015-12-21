@@ -1,7 +1,7 @@
 #Eye LED Box Library for Pepper
 
 
-![Pepper Icon](./readmeImage/IMG_0010.PNG)
+![Pepper Icon](./readMeImage/IMG_0010.PNG)
 
 
 ## 概要
@@ -11,7 +11,7 @@
 ## デモ
 現在このボックスライブラリには7つのボックスが含まれています。
 
-![cryingEyeBox demo](./readmeImage/pepperEyeLibraryDemo.PNG)
+![cryingEyeBox demo](./readMeImage/pepperEyeLibraryDemo.PNG)
 
 
 
@@ -21,7 +21,7 @@
 
 2. コレグラフを起動して、LEDボックスライブラリをボックスライブラリパネルに追加します。
 3. 使いたいボックスをフローダイアグラムパネルにドラッグ&ドロップします。
-![explanation image](./readmeImage/EyeLibraryExplanationjp.png)
+![explanation image](./readMeImage/EyeLibraryExplanationjp.png)
 
 	
 	
